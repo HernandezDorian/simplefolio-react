@@ -1,30 +1,30 @@
 {
   "navigation": [
-		{
-			"title": "About",
-			"url": "http://www.example.com/about"
-		},
-		{
-			"title": "Projects",
-			"url": "http://www.example.com/portfolio"
-		},
-		{
-			"title": "Contact",
-			"url": "http://www.example.com/contact"
-		}
-	],
+    {
+      "title": "A propos",
+      "url": "http://www.example.com/about"
+    },
+    {
+      "title": "Projets",
+      "url": "http://www.example.com/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "http://www.example.com/contact"
+    }
+  ],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "Hernandez Dorian",
+    "subtitle": "Je suis développeur React"
   },
   "about": {
-    "title": "About me",
+    "title": "A propos de  moi",
     "image": "/placeholder.png",
     "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
     "secondary": "Extra Information about you! like hobbies and your goals."
   },
   "projects": {
-    "title": "Projects",
+    "title": "Projets",
     "projects": [
       {
         "title": "Project 1",
@@ -34,19 +34,19 @@
         "image": "/placeholder-700x350.png"
       },
       {
-				"title": "Project 2",
-				"description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-				"url": "http://www.example.com/project2",
+        "title": "Project 2",
+        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+        "url": "http://www.example.com/project2",
         "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			},
+        "image": "/placeholder-700x350.png"
+      },
       {
-				"title": "Project 3",
-				"description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
-				"url": "http://www.example.com/project3",
+        "title": "Project 3",
+        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.",
+        "url": "http://www.example.com/project3",
         "github": "http://www.example.com/github",
-				"image": "/placeholder-700x350.png"
-			}
+        "image": "/placeholder-700x350.png"
+      }
     ]
   },
   "contact": {
@@ -55,8 +55,8 @@
     "formId": "your-form-id"
   },
   "footer": {
-		"linkedin": "",
-		"twitter": "",
-		"github": ""
-	}
+    "linkedin": "",
+    "twitter": "",
+    "github": ""
+  }
 }
